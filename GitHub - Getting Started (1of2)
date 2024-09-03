@@ -1,0 +1,99 @@
+
+## GitHub Repository Creation and Management
+(Precise/Short Version _ 1/2)
+
+### Overview
+- This video covers:
+  - Creating a new repository on GitHub.
+  - Editing files within the repository.
+  - Committing changes using the GitHub web interface.
+
+### Prerequisites
+- **Previous Knowledge**: Familiarity with Git and GitHub.
+- **Action Required**: Register for a GitHub account and log in.
+
+### Steps to Create a New Repository
+
+1. **Accessing Repository Creation**:
+   - Click on the **"+"** icon.
+   - Select **"New Repository"**.
+
+2. **Provide Repository Details**:
+   - **Repository Name**: Enter a unique name for your repository.
+   - **Description (Optional)**: Add a brief description of the repository.
+   - **Visibility**:
+     - Choose **Public** or **Private**.
+   - **Initialize with README**: Select this option to create a README file automatically.
+   - Click **"Create Repository"**.
+
+3. **Redirect to Repository**:
+   - You will be taken to the newly created repository.
+   - The root folder displays the **ReadMe.md** file by default.
+
+### Editing the README File
+
+1. **Open the README for Editing**:
+   - Click the **pencil icon** to use the online editor.
+
+2. **Make Changes**:
+   - Edit the text in the README as needed.
+
+3. **Committing Changes**:
+   - Scroll down to the **Commit changes** section.
+   - **Commit Message**: Add a brief message summarizing the changes.
+   - **Optional Description**: Provide a more detailed description if desired.
+   - Click **"Commit changes"** to save updates.
+
+4. **Verify Changes**:
+   - Return to the home screen by clicking the repository name.
+   - Check that the README file reflects the updates.
+
+### Creating a New File
+
+1. **Add a New File**:
+   - Click **"Add File"**.
+   - Select **"Create New File"**.
+
+2. **File Creation**:
+   - **File Name**: Enter `firstpython.py`.
+   - **Comment**: Add a brief comment describing the code.
+   - **Code**: Input your Python code.
+
+3. **Committing the New File**:
+   - After finishing, click **"Commit changes"**.
+   - The new file will now appear in the repository listing.
+
+### Editing an Existing File
+
+1. **Access the File**:
+   - Click the file name you wish to edit.
+
+2. **Edit the File**:
+   - Click the **pencil icon** to enter edit mode.
+   - Make necessary changes.
+
+3. **Commit Edits**:
+   - Scroll down to the **Commit changes** section.
+   - Add a commit message and click **"Commit changes"**.
+
+### Uploading Files from Local System
+
+1. **Upload Files**:
+   - From the repository home screen, click **"Add File"**.
+   - Select **"Upload files"**.
+
+2. **Choose Files**:
+   - Click **"Choose Your Files"** to select files from your local system.
+   - Note: Upload time may vary based on file size.
+
+3. **Finalizing Upload**:
+   - Once the files are uploaded, click **"Commit changes"**.
+   - The repository will now reflect the uploaded files.
+
+### Summary
+- In this video, you learned how to:
+  - Create a new repository.
+  - Edit files and commit changes using the GitHub web interface.
+  - Upload files from your local system to the repository.
+
+--- 
