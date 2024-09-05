@@ -116,4 +116,8 @@
   - Create new files directly in the repository.
   - Upload files from your local system to the repository.
 
----
+-----
+
+[Hands-On Lab 1: GitHub Sign Up & Create Repo](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstQ0QwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL0dpdEh1YkxhYnMvR2l0SHViMV9HZXR0aW5nX1N0YXJ0ZWQubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzExNjM4NTg5fQ._GR4fvxUSL81-cR8Hp48W5Y7GZg1HN5_6xuyvDV_goQ  "IBM Orgnl Note with IMGs")
+
+_____
