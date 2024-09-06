@@ -1,88 +1,7 @@
-# IBM-GGB_006_GitHub Branches
+# GitHub Branches
 
 
-## GitHub Branches Overview (Precise)
-
-### Purpose of Branches
-- **Definition**: Branches in GitHub allow for parallel development and experimentation without affecting the main codebase.
-- **Main Branch**: 
-  - The definitive branch that stores the deployable version of the code.
-  - Created by default, but any branch can be designated as the main finished version.
-
-### Creating and Using Branches
-1. **Creating a New Branch**:
-   - Click the dropdown menu next to the branch name (default is "Main").
-   - Enter a descriptive name for the new branch.
-   - Select **"Create Branch"**.
-   - The new branch starts as an exact copy of the original branch.
-
-2. **Working on a Branch**:
-   - As changes are made, the new branch holds the modified code.
-   - Developers work on source files within their respective branches.
-
-### Merging Changes
-- **Merging Process**:
-  - When development is complete, branches can be merged.
-  - Each branch's code is identified as a "tip."
-  - Merging combines the tips into a third branch.
-
-### Committing Changes
-1. **Making Changes**:
-   - Select the file to edit.
-   - Click the pencil icon to enter edit mode.
-   - Make your changes and commit them.
-
-2. **Commit Process**:
-   - A commit indicates a stable platform for the developed features.
-   - Developers must write a meaningful and descriptive comment for each commit.
-   - Options to commit to the current branch or create a new branch.
-
-3. **Best Practices for Commit Messages**:
-   - Avoid ending messages with a period.
-   - Keep messages under 50 characters.
-   - Use the extended window for details.
-   - Write in an active voice.
-
-### Pull Requests
-- **Definition**: Pull requests initiate the merging of branches and allow others to review proposed changes.
-- **Creating a Pull Request**:
-  1. Click **"Pull requests"** and select **"New pull request."**
-  2. Choose the new branch from the compare box.
-  3. Review the changes and confirm they are correct.
-  4. Add a title and description for the pull request.
-  5. Click **"Create pull request."** 
-
-- **Approval Process**:
-  - Pull requests require approval from a user (could be the author or another team member).
-  - GitHub automatically creates a pull request if changes are made on a branch that the user does not own.
-  - The log files are immutable, allowing tracking of who approved merges.
-
-### Merging Pull Requests
-- To merge the committed code changes into the main branch:
-  1. Click **"Merge pull request."**
-  2. Click **"Confirm merge."**
-
-### Deleting Obsolete Branches
-- Once all changes for a branch are complete, that branch should be deleted as it becomes obsolete.
-
-### Summary of Key Points
-- All files in GitHub exist on a branch.
-- The main branch contains the finished deployable version of the code.
-- Create new branches for code changes; they start as exact copies of the original.
-- Multiple branches can undergo changes simultaneously.
-- Saved changes are referred to as commits.
-- Pull requests enable review and integration of proposed changes into the main branch.
-
---- 
-____
-
-
-
-## GitHub Branches Overview (Detailed)
-
-
-![Screenshot 2024-09-05 171803.png](:/0518e107e5564107956ef68a340fa8f0)
-
+## GitHub Branches Overview 
 
 ### Purpose of Branches
 - **Definition**: Branches in GitHub are used to facilitate parallel development. They allow developers to work on features, fixes, or experiments independently without affecting the main codebase.
@@ -95,6 +14,11 @@ ____
   - **Example**: In an e-commerce application, the main branch might contain the stable version that users interact with, while feature branches are used for developing new functionalities.
 
 ### Creating and Using Branches
+
+
+![Screenshot 2024-09-05 171803.png](:/0518e107e5564107956ef68a340fa8f0)
+
+
 1. **Creating a New Branch**:
    - **Steps**:
      - Click the dropdown menu next to the current branch name (default is "Main").
@@ -206,3 +130,7 @@ ____
 - Merging requires approval and can be tracked through immutable log files.
 
 --- 
+
+[Lab: Branching and Merging (Web UI)](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstQ0QwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL0dpdEh1YkxhYnMvR2l0SHViMl9CcmFuY2hfTWVyZ2UubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzExNjM4NTc3fQ.Th_Me50v-rgEWMgh9_EFkN3mdygNpNrRmDVa3eRUDAA  "IBM's Note link with IMGs")
+
+_____
