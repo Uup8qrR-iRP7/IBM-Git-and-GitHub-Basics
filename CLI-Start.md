@@ -24,3 +24,6 @@ Ans: Oh Got it!
 
 
 VS Code interface do helps!
+
+
+the Master branch is used for Pulling and Pushing but Main branch is the Main branch where changes/updates can be merged by Authoritarians.
