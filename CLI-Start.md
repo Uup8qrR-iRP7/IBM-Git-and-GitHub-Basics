@@ -11,3 +11,11 @@ by following the following steps_
 
 Note: You can change your local repository's name directly and it won't affect anything. yes!
 15/09/2024
+
+------------------------------------------------------------
+
+
+
+
+what will show in git log if commit is made from GitHubWeb. (this is after renaming github repo's 
+username{matching with local). and having disting mails for local and remote. Yes!
