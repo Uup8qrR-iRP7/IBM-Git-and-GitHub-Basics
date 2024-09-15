@@ -27,3 +27,10 @@ VS Code interface do helps!
 
 
 the Master branch is used for Pulling and Pushing but Main branch is the Main branch where changes/updates can be merged by Authoritarians. (i.e. by pulling from master to main).
+
+Pulling and Pushing (between local and remote) by default on Master branch Is very clever!
+
+
+
+Que: Is there any way or shortcut on CLI that will do the work of copying-pasting folder or file names at curser? (after/from **ls**)
+Ans:
